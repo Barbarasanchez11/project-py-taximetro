@@ -59,7 +59,7 @@ Desarrollar un programa CLI (Interfaz de Línea de Comandos) en Python.
 
 ## ⏳ Plazo de Entrega
 
-Dos semanas a partir de la fecha de inicio del proyecto.
+Una semana a partir de la fecha de inicio del proyecto.
 
 ## 💡 Consejos para el Desarrollo
 
